@@ -15,7 +15,7 @@ import android.widget.ToggleButton;
 /**
  * @author Stiven Alejandro Rengifo Ospina
  * @version 1.0
- * Prueba
+ * Prueba repositorio
  */
 public class BotonesActivity extends AppCompatActivity implements View.OnClickListener {
 

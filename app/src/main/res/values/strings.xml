@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Controles Basicos</string>
+    <string name="btn_normal">Botón Normal</string>
+    <string name="btn_toggleOn">Habilitado</string>
+    <string name="btn_toggleOff">Inhabilitado</string>
+    <string name="btn_Image">Icono de la aplicación</string>
+    <string name="btn_switchOn">Encendido</string>
+    <string name="btn_switchOff">Apagado</string>
+</resources>
